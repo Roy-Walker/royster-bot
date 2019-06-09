@@ -1,1 +1,1 @@
-python 3.6.64
+python 3.6.6
